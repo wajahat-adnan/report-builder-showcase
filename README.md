@@ -34,26 +34,7 @@ The current version focuses on abdomen ultrasound reporting and supports a workf
 ## System Workflow
 
 
-Worksheet Image
-      |
-      v
-Local OCR Extraction
-      |
-      v
-Anchor-Based Parsing
-      |
-      v
-Measurement Interpretation
-      |
-      v
-Clinician Review
-      |
-      v
-Structured Report Assembly
-      |
-      v
-Editable Report / DOCX Export
-```
+Worksheet Image -> Local OCR Extraction -> Anchor-Based Parsing -> Measurement Interpretation -> Clinician Review Structured Report Assembly -> Editable Report / DOCX Export
 
 ## Engineering Highlights
 
